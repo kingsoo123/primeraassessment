@@ -10,7 +10,7 @@ In this challenge, that’s the goal!
 
 ### What you’re building
 
-<img src="screenshots/challenge-01.jpeg" alt="Light mode" width="200"/> 
+<img src="screenshots/challenge-01.jpeg" alt="Light mode" width="500" height="300"/> 
 
 
 ### The brief
