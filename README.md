@@ -3,7 +3,7 @@
 Follow the instruction in the provided assessment below 
 
 
-### CHALLENGE 1: Progress Stepper 
+### CHALLENGE: Progress Stepper 
 
 Showing progress visually is very handy in UI design, but it’s even more important to make sure that it’s implemented semantically too. 
 In this challenge, that’s the goal!
