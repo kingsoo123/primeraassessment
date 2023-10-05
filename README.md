@@ -1,5 +1,3 @@
-# React + TypeScript + Vite + Scss + TailwindCSS
-
 # Primera Frontend Assessment
 
 Follow the instruction in the provided assessment below 
