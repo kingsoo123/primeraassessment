@@ -1,5 +1,90 @@
 # React + TypeScript + Vite + Scss + TailwindCSS
 
+# Primera Frontend Assessment
+
+Follow the instruction in the provided assessment below 
+
+
+### CHALLENGE 1: Progress Stepper 
+
+Showing progress visually is very handy in UI design, but it’s even more important to make sure that it’s implemented semantically too. 
+In this challenge, that’s the goal!
+
+### What you’re building
+
+<img src="screenshots/challenge-01.jpeg" alt="Light mode" width="200"/> 
+
+
+### The brief
+
+Take the design assets and build a progress stepper component, using react. 
+You should aim for the following, at a minimum:
+
+* Your solution uses semantic HTML
+* Your solution could work with a handful of items or a lot of items
+* Long items and short items should work harmoniously
+
+Implement the attached screenshots design using React + TypeScript + Vite + Scss + TailwindCSS.
+
+### Assets
+
+I’ve used Figma to design this challenge. [You can view everything you need in the browser, here](https://www.figma.com/file/R0WkFubht6lAjY1soVeaLW/Challenge-008?node-id=0%3A1).
+
+Here’s some assets to get you going:
+
+* [Figma Prototype](https://www.figma.com/file/R0WkFubht6lAjY1soVeaLW/Challenge-008?node-id=0%3A1)
+
+* [PDF Version](https://hankchizljaw.s3.amazonaws.com/fecc-challenge-008.pdf)
+
+* [Saira Condensed font](https://fonts.google.com/specimen/Saira+Condensed)
+
+* [Asap font](https://fonts.google.com/specimen/Asap)
+
+
+> NOTE: 
+
+* The project is already setup with React + TypeScript + Vite + Scss + TailwindCSS. 
+All you've to do is focus on achieving the implementation as seen on the attached document.
+
+* This assessment takes maximum of 2 hours for completion. Simply pay attention to the instruction detail. 
+
+* Update pushed to the GitHub repository after the assessment time elapse will make you to be disqualified. 
+
+* For icons use the flutter built-in material design icon set e.g., Icon(Icons.add). 
+These icons might not fit in to what is in the design but the focus is for you to achieve the basic requirement.
+
+
+Here are some CSS Custom Properties for your tokens and treatments:
+
+```
+:root {
+  --color-light: #fdfdfd;
+  --color-dark: #27474e;
+  --color-mid: #496970;
+  --color-primary: #f3344a;
+  --color-primary-glare: #f4d7da;
+  --color-secondary: #678c94;
+  --color-secondary-glare: #ebf0f1;
+  --shadow: 0px 0px 40px rgba(39, 71, 78, 0.1);
+}
+```
+
+### AREAS WE ARE LOOKING OUT FOR 
+* Code structuring 
+* Reusable widget 
+* Implement app theming (Dark & Light Mode) on the Preference 
+
+### Candidate Info
+> Replace the placeholder information with your name and email.
+
+Canditate Name: 
+e.g John Doe
+
+Candidate Email: 
+e.g johndoe@example.com
+
+...
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
