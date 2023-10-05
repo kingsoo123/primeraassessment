@@ -68,9 +68,10 @@ Here are some CSS Custom Properties for your tokens and treatments:
 ```
 
 ### AREAS WE ARE LOOKING OUT FOR 
+* Attention to instruction detail
 * Code structuring 
-* Reusable widget 
-* Implement app theming (Dark & Light Mode) on the Preference 
+* Reusable component 
+* Proper use of hooks where applicable 
 
 ### Candidate Info
 > Replace the placeholder information with your name and email.
