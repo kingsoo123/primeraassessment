@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Asap", "sans-serif"],
-        serif: ["Asap", "Saira Condensed", "serif"],
+        Asap: ["Asap", "sans-serif"],
+        Saira: ["Saira+Condensed", "serif"],
       },
     },
   },
