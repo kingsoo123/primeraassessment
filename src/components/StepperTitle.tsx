@@ -34,9 +34,7 @@ const StepperTitle = () => {
         <span className="flex">
           <p className="font-Asap font-[23px] text-[#EFF1F1] ml-2 -mt-1">04</p>
           <div className="flex flex-col justify-start items-start">
-            <p className="font-Saira font-[16px] text-[#496970] leading-3">
-              STEP FOUR
-            </p>
+            <p className="font-Saira font-[16px] text-[#496970]">STEP FOUR</p>
             <p className="font-Asap text-[#27474E] font-[23px]">
               Order complete
             </p>
